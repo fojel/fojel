@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fojelio&label=Profile%20views&color=0e75b6&style=flat" alt="fojelio" /> </p>
 
-<img src="C:\Users\Ian\Downloads\Disco 2021\Disco\miniatura principal.png" alt="img"/>
+![Miniatura Principal](https://user-images.githubusercontent.com/79102693/117207898-e2807300-adca-11eb-8c50-92693bbe4703.png)
+- Mi canal de musica [Fojel On Youtube](https://www.youtube.com/channel/UC8ocpLU9yH91-RVUIlKjQNw)
 
 - 🔭 Estoy actualmente trabajando en [Mydrugs](https://github.com/fojelio/Our-room/tree/main)
 
