@@ -3,8 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fojelio&label=Profile%20views&color=0e75b6&style=flat" alt="fojelio" /> </p>
 
-<img src="![My Drugs2](https://user-images.githubusercontent.com/79102693/117208436-810cd400-adcb-11eb-8bdc-56f16a3d119a.png)"
-width="500" height="40"/>
+![My Drugs2](https://user-images.githubusercontent.com/79102693/117208436-810cd400-adcb-11eb-8bdc-56f16a3d119a.png)
+
 
 
  - ♫ Mi canal de musica [Fojel On Youtube](https://www.youtube.com/channel/UC8ocpLU9yH91-RVUIlKjQNw)
