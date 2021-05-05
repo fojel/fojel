@@ -7,7 +7,7 @@
 width="500" height="40"/>
 
 
- ♫ Mi canal de musica [Fojel On Youtube](https://www.youtube.com/channel/UC8ocpLU9yH91-RVUIlKjQNw)
+ - ♫ Mi canal de musica [Fojel On Youtube](https://www.youtube.com/channel/UC8ocpLU9yH91-RVUIlKjQNw)
 
 - 🔭 Estoy actualmente trabajando en [Mydrugs](https://github.com/fojelio/Our-room/tree/main)
 
