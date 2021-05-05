@@ -3,8 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fojelio&label=Profile%20views&color=0e75b6&style=flat" alt="fojelio" /> </p>
 
-![Miniatura Principal](https://user-images.githubusercontent.com/79102693/117207898-e2807300-adca-11eb-8c50-92693bbe4703.png)
-- Mi canal de musica [Fojel On Youtube](https://www.youtube.com/channel/UC8ocpLU9yH91-RVUIlKjQNw)
+![My Drugs2](https://user-images.githubusercontent.com/79102693/117208436-810cd400-adcb-11eb-8bdc-56f16a3d119a.png)
+
+-♫ Mi canal de musica [Fojel On Youtube](https://www.youtube.com/channel/UC8ocpLU9yH91-RVUIlKjQNw)
 
 - 🔭 Estoy actualmente trabajando en [Mydrugs](https://github.com/fojelio/Our-room/tree/main)
 
@@ -18,9 +19,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/Fojelll" target="blank"></a>
-<a href="https://instagram.com/https://www.instagram.com/fojell/" target="blank"></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uc8ocplu9yh91-rvuilkjqnw" target="blank"></a>
+  <a href="https://twitter.com/Fojelll" target="blank">Twitter</a>
+<a href="https://instagram.com/https://www.instagram.com/fojell/" target="blank">Instagram</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
