@@ -2,10 +2,12 @@
 <h3 align="center"><b>Quiero convertirme y autodenominarme, full stack</b><br></h3> <h4> Odio el problem solving y amo la seguridad informatica, estoy incursionando en kali-linux mientras trato de aprender backend 100% (php, node.js, mysql) por ahora me considero bueno en html,css,phyton,js, para agregar tengo 15 años, uso visual studio, y me gusta crear apps/paginas de peliculas famosas, mi ultimo proyecto fue la pagina de MYDRUGS de la serie de netflix "How to sell drugs online"</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fojelio&label=Profile%20views&color=0e75b6&style=flat" alt="fojelio" /> </p>
-
+<p>
 ![My Drugs2](https://user-images.githubusercontent.com/79102693/117208436-810cd400-adcb-11eb-8bdc-56f16a3d119a.png)
+width="40" height="40"
+<p/>
 
--♫ Mi canal de musica [Fojel On Youtube](https://www.youtube.com/channel/UC8ocpLU9yH91-RVUIlKjQNw)
+ ♫ Mi canal de musica [Fojel On Youtube](https://www.youtube.com/channel/UC8ocpLU9yH91-RVUIlKjQNw)
 
 - 🔭 Estoy actualmente trabajando en [Mydrugs](https://github.com/fojelio/Our-room/tree/main)
 
@@ -20,6 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/Fojelll" target="blank">Twitter</a>
+  <br>
 <a href="https://instagram.com/https://www.instagram.com/fojell/" target="blank">Instagram</a>
 </p>
 
