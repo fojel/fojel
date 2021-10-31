@@ -1,5 +1,5 @@
 <h1 align="center">Hola, soy Fojel</h1>
-<h3 align="center"><b>Quiero convertirme y autodenominarme, full stack</b><br></h3> <h4> Odio el problem solving y amo la seguridad informatica, estoy incursionando en kali-linux mientras trato de aprender backend 100% (php, node.js, mysql) por ahora me considero bueno en html,css,phyton,js, para agregar tengo 15 años, uso visual studio, y me gusta crear apps/paginas de peliculas famosas, mi ultimo proyecto fue la pagina de MYDRUGS de la serie de netflix "How to sell drugs online"</h4>
+<h3 align="center"><b></b><br></h3> <h4></h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fojelio&label=Profile%20views&color=0e75b6&style=flat" alt="fojelio" /> </p>
 
