@@ -19,9 +19,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/Fojelll" target="blank">Twitter</a>
+  <a href="https://twitter.com/theojel" target="blank">Twitter</a>
   <br>
-<a href="https://instagram.com/https://www.instagram.com/fojell/" target="blank">Instagram</a>
+<a href="https://instagram.com/https://www.instagram.com/thefojel/" target="blank">Instagram</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
