@@ -11,13 +11,11 @@
 
 - 🔭 Estoy actualmente trabajando en [Mydrugs](https://github.com/fojelio/Our-room/tree/main)
 
-- 👨‍💻 Actualmente estoy aprendiendo a fondo **Bootstrap**
+- 👨‍💻 Estoy aprendiendo a fondo **Bootstrap**
 
 - 🤝 Estoy buscando ayuda constante con **Php,node.js,ajax,mysql,react,vue,gsap**
 
-- 📫 Contactame **kikatopro@gmail.com**
-
-- 📄 Mi canal de twitch donde Realizo streamings [twitch.tv/fojel](twitch.tv/fojel)
+- 📫 Contactame **iandargenio@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
