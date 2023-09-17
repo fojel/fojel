@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Fojel</h1>
+<h1 align="center">Hola, soy Fojel!</h1>
 <h3 align="center"><b></b><br></h3> <h4></h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fojelio&label=Profile%20views&color=0e75b6&style=flat" alt="fojelio" /> </p>
@@ -12,9 +12,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/theojel" target="blank">Twitter</a>
+  <a href="https://twitter.com/thefojel" target="blank">Twitter</a>
   <br>
-<a href="https://instagram.com/https://www.instagram.com/thefojel/" target="blank">Instagram</a>
+<a href="https://www.instagram.com/thefojel/" target="blank">Instagram</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
