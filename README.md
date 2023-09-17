@@ -6,16 +6,9 @@
 ![My Drugs2](https://user-images.githubusercontent.com/79102693/117208436-810cd400-adcb-11eb-8bdc-56f16a3d119a.png)
 
 
-
- - ♫ Mi canal de musica [Fojel On Youtube](https://www.youtube.com/channel/UC8ocpLU9yH91-RVUIlKjQNw)
-
 - 🔭 Estoy actualmente trabajando en [Mydrugs](https://github.com/fojelio/Our-room/tree/main)
 
-- 👨‍💻 Estoy aprendiendo a fondo **Bootstrap**
-
-- 🤝 Estoy buscando ayuda constante con **Php,node.js,ajax,mysql,react,vue,gsap**
-
-- 📫 Contactame **iandargenio@gmail.com**
+- 📫 Contacto **iandargenio@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
