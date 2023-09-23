@@ -6,7 +6,7 @@
 ![My Drugs2](https://user-images.githubusercontent.com/79102693/117208436-810cd400-adcb-11eb-8bdc-56f16a3d119a.png)
 
 
-- 🔭 Estoy actualmente trabajando en [Mydrugs](https://github.com/fojelio/Our-room/tree/main)
+- 🔭 Estoy actualmente trabajando en [Sistema de Codigo Azul](https://github.com/botato300/sistema-codigo-azul)
 
 - 📫 Contacto **iandargenio@gmail.com**
 
