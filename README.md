@@ -31,7 +31,7 @@
 <h3 align="left">Languages</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,cpp,js,html,git,css,nodejs,mysql,bootstrap,express,figma,github,idea,linux,,,,postman,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=java,cpp,js,html,css,nodejs,mysql,bootstrap,express&perline=14" />
   </a>
 </p>
 <br>
