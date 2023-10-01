@@ -18,21 +18,28 @@
 <h3 align="left">Contactame:</h3>
 <p align="center">
 
- <div align="center"  class="icons-social" style="margin-left: 10px;">
+ <div align="left"  class="icons-social" style="margin-left: 10px;">
 	   <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/thefojel">
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
 		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/thefojel">
 			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
 		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/fojel">
       </div>
-
 </p>
 <br/>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bootstrap,cpp,css,discord,docker,express,figma,github,html,idea,java,js,linux,,mysql,nodejs,postman,py,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=java,cpp,js,html,git,css,nodejs,mysql,bootstrap,express,figma,github,idea,linux,,,,postman,vscode&perline=14" />
+  </a>
+</p>
+<br>
+
+<h3 align="left">Tools</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,vscode,idea,postman,figma,discord,github&perline=14" />
   </a>
 </p>
 <br>
