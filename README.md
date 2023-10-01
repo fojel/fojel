@@ -1,9 +1,9 @@
 <h1 align="center">Hola, soy Fojel!</h1>
 <h3 align="center"><b></b><br></h3> <h4></h4>
 
-<p style="align-items:left"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=fojelio&label=Profile%20views&color=0e75b6&style=flat" alt="fojelio" /> </p>
+<h4 align="center">Visitor's count :eyes:</h4>
 
-<p style="align-items:center"><img align="center" src="https://i.ibb.co/LRnqCW0/Banner-negro.png" alt="Banner-negro" border="0"></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{fojelio}/count.svg" alt="fojelio :: Visitor's Count" /></p>
 
 - 👨‍💻 **Java Developer**
 
@@ -14,11 +14,6 @@
 - 🧩 Mi proyecto mas reciente es [TetrisGame](https://github.com/fojelio/TetrisGame)
 
 - 📫 Contacto **iandargenio@gmail.com**
-
-  
-<h4 align="center">Visitor's count :eyes:</h4>
-
-<p align="center"><img src="https://profile-counter.glitch.me/{fojelio}/count.svg" alt="fojelio :: Visitor's Count" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
