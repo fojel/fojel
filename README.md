@@ -14,8 +14,8 @@
 - 🧩 Mi proyecto mas reciente es [TetrisGame](https://github.com/fojelio/TetrisGame)
 
 - 📫 Contacto **iandargenio@gmail.com**
-<details>
-<h3 align="left">Connect with me:</h3>
+
+<h3 align="left">Contactame:</h3>
 <p align="center">
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
@@ -38,7 +38,6 @@
       </div>
 
 </p>
-</details>
 <br/>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -49,7 +48,7 @@
 </p>
 <br>
 
-<h3>Statistical Data :-</h3>
+<h3>Estadisticas :-</h3>
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=fojelio&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="fojelio" 
