@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fojelio&label=Profile%20views&color=0e75b6&style=flat" alt="fojelio" /> </p>
 
-![My Drugs2]([/[logo.png](https://ibb.co/2Fb1LDs))
+![My Drugs2](https://ibb.co/2Fb1LDs)
 
 
 - 🔭 Estoy actualmente trabajando en [Sistema de Codigo Azul](https://github.com/botato300/sistema-codigo-azul)
