@@ -3,7 +3,7 @@
 
 <p style="align-items:center"> <img src="https://komarev.com/ghpvc/?username=fojelio&label=Profile%20views&color=0e75b6&style=flat" alt="fojelio" /> </p>
 
-<img src="https://i.ibb.co/LRnqCW0/Banner-negro.png" alt="Banner-negro" border="0">
+<img src="https://i.ibb.co/LRnqCW0/Banner-negro.png" alt="Banner-negro" border="0" style="align-items:center">
 
 - 🔭 Estoy actualmente trabajando en [Sistema de Codigo Azul](https://github.com/botato300/sistema-codigo-azul)
 
