@@ -1,5 +1,3 @@
-<h1 align="center">Hola, soy Fojel!</h1>
-<h3 align="center"><b></b><br></h3> <h4></h4>
 
 <p align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb28xcmk4MG1tcG4wMXdydWMzMnA3Y21icHM4d3ppNGpucGYwMjJ0byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UZNX5bkukDIDDlIhTQ/giphy.gif" alt="fojelio :: Visitor's Count" /></p>
 
