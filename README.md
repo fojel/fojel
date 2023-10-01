@@ -1,7 +1,7 @@
 <h1 align="center">Hola, soy Fojel!</h1>
 <h3 align="center"><b></b><br></h3> <h4></h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fojelio&label=Profile%20views&color=0e75b6&style=flat" alt="fojelio" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=fojelio&label=Profile%20views&color=0e75b6&style=flat" alt="fojelio" /> </p>
 
 <a href="https://ibb.co/2Fb1LDs"><img src="https://i.ibb.co/K51pQML/logo.png" alt="logo" border="0"></a>
 
