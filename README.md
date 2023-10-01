@@ -14,7 +14,7 @@
 - 🧩 Mi proyecto mas reciente es [TetrisGame](https://github.com/fojelio/TetrisGame)
 
 - 📫 Contacto **iandargenio@gmail.com**
-
+<details>
 <h3 align="left">Connect with me:</h3>
 <p align="center">
 
@@ -38,7 +38,7 @@
       </div>
 
 </p>
-
+</details>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
