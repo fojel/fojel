@@ -11,7 +11,7 @@
 
 - 🔭 Estoy actualmente trabajando en [Sistema de Codigo Azul](https://github.com/botato300/sistema-codigo-azul)
 
-- 🧩 Mi proyecto mas reciente es [TetrisGame](https://github.com/fojelio/TetrisGame)
+- 🧩 Mi proyecto mas reciente es la aplicacion [TetrixApp](https://github.com/fojelio/tetrixgame-app)
 
 - 📫 Contacto **iandargenio@gmail.com**
 
