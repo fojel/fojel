@@ -7,7 +7,9 @@
 
 - 👨‍💻 **Java Developer**
 
-- 🎸 In my freetimes i play guitar
+- 🧑🏻‍🎓 Programming technician
+
+- 📚 To: bachelor's degree in systems
 
 - 🔭 My last work [Sistema de Codigo Azul](https://github.com/botato300/sistema-codigo-azul)
 
