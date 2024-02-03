@@ -7,17 +7,17 @@
 
 - 👨‍💻 **Java Developer**
 
-- 🎸 En mis tiempos libres soy musico, toco guitarra
+- 🎸 In my freetimes i play guitar
 
-- 🔭 Estoy actualmente trabajando en [Sistema de Codigo Azul](https://github.com/botato300/sistema-codigo-azul)
+- 🔭 My last work [Sistema de Codigo Azul](https://github.com/botato300/sistema-codigo-azul)
 
-- 🧩 Mi proyecto mas reciente es la aplicacion [TetrixApp](https://github.com/fojelio/tetrixgame-app)
+- 🧩 Now im working in [TetrixApp](https://github.com/fojelio/tetrixgame-app)
 
-- 📫 Contacto **iandargenio@gmail.com**
+- 📫 Contact me **iandargenio@gmail.com**
 
-- 📑 PortaFolio [PortaFolio](https://fojelportfolio.000webhostapp.com/)
+- 📑 Portfolio [PortaFolio](https://fojelportfolio.000webhostapp.com/)
 
-<h3 align="left">Contactame:</h3>
+<h3 align="left">Contact me:</h3>
 <p align="center">
 
  <div align="left"  class="icons-social" style="margin-left: 10px;">
