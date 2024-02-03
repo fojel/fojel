@@ -33,7 +33,7 @@
 <h3 align="left">Languages</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,cpp,js,html,css,nodejs,mysql,bootstrap,express&perline=14" />
+    <img src="https://skillicons.dev/icons?i=java,cpp,js,go,php,python,html,css,nodejs,srping,electronjs,mysql,bootstrap,express&perline=14" />
   </a>
 </p>
 <br>
