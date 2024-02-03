@@ -33,7 +33,15 @@
 <h3 align="left">Languages</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,cpp,js,go,php,python,html,css,nodejs,srping,electronjs,mysql,bootstrap,express&perline=14" />
+    <img src="https://skillicons.dev/icons?i=java,cpp,js,go,php,python,mysql,gherkin,html,css,arduino&perline=14" />
+  </a>
+</p>
+<br>
+
+<h3 align="left">Libraries and FrameWorks</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,spring,electron,bootstrap,express,selenium&perline=14" />
   </a>
 </p>
 <br>
@@ -41,7 +49,7 @@
 <h3 align="left">Tools</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,vscode,idea,postman,figma,discord,github&perline=14" />
+    <img src="https://skillicons.dev/icons?i=bash,linux,vscode,idea,postman,figma,git,github,gitlab&perline=14" />
   </a>
 </p>
 <br>
