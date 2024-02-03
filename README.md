@@ -16,18 +16,7 @@
 - 📫 Contact me **iandargenio@gmail.com**
 
 - 📑 Portfolio [PortaFolio](https://fojelportfolio.000webhostapp.com/)
-
-<h3 align="left">Contact me:</h3>
-<p align="center">
-
- <div align="left"  class="icons-social" style="margin-left: 10px;">
-	   <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/thefojel">
-			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/thefojel">
-			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/fojel">
-      </div>
-</p>
+- 
 <br/>
 
 <h3 align="left">Languages</h3>
