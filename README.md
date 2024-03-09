@@ -3,7 +3,7 @@
 
 <h4 align="center">Visitor's count :eyes:</h4>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{fojelio}/count.svg" alt="fojelio :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{fojel}/count.svg" alt="fojel :: Visitor's Count" /></p>
 
 - 👨‍💻 **Java Developer**
 
@@ -11,9 +11,9 @@
 
 - 📚 To: bachelor's degree in systems
 
-- 🔭 My last work [Sistema de Codigo Azul](https://github.com/botato300/sistema-codigo-azul)
+- 🔭 My last project [Sistema de Codigo Azul](https://github.com/botato300/sistema-codigo-azul)
 
-- 🧩 Now im working in [TetrixApp](https://github.com/fojelio/tetrixgame-app)
+- 🧩 Now im working in [TetrixApp](https://github.com/fojeñ/tetrixgame-app)
 
 - 📫 Contact me **iandargenio@gmail.com**
 
@@ -24,7 +24,7 @@
 <h3 align="left">Languages</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,cpp,js,go,php,python,mysql,gherkin,html,css,arduino&perline=14" />
+    <img src="https://skillicons.dev/icons?i=java,cpp,js,go,php,python,rust,mysql,gherkin,html,css,arduino&perline=14" />
   </a>
 </p>
 <br>
